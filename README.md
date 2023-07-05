@@ -12,12 +12,12 @@ Make sure you have Node.js and npm (Node Package Manager) installed on your mach
 
 ### Installation
 
-1. Clone the repository:
+### 1. Clone the repository:
 
 ```bash
 git clone <repository-url>
 
-### Navigate to the project directory:
+Navigate to the project directory:
 cd chat-app
 
 Running the App
@@ -31,8 +31,7 @@ Type your message in the input box.
 Click the "Send" button or press Enter to send the message.
 The message will appear in the chat window with a random username assigned to it.
 You can click the "Like" button to increment the like count for a message.
-
-Contributing :
+### Contributing :
 Contributions are welcome! If you would like to contribute to the project, please follow these steps:
 
 Fork the repository.
@@ -46,4 +45,4 @@ React Documentation
 Create React App
 
 
-npm install
+
